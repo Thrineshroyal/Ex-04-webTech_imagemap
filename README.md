@@ -23,7 +23,8 @@ Ref no:23004810
 
 
 MAP.HTML:
-map.html:
+index.html:
+```
 <!DOCTYPE html>
 <html>
     <head>
@@ -41,8 +42,9 @@ map.html:
         </map>
     </body>
     </html>
-
-basinikonda.html.html:
+```
+basinikonda.html:
+```
 <!DOCTYPE html>
 <html>
     <head>
@@ -58,8 +60,9 @@ basinikonda.html.html:
     </body>
 
 </html>
-
+```
 MMC park.html:
+```
 <!DOCTYPE html>
 <html>
     <head>
@@ -73,8 +76,9 @@ MMC park.html:
     </body>
 
 </html>
-
+```
 hall.html:
+```
 <!DOCTYPE html>
 <html>
     <head>
@@ -90,8 +94,9 @@ hall.html:
     </body>
 
 </html>
-
+```
 temple.html:
+```
 <!DOCTYPE html>
 <html>
     <head>
@@ -109,8 +114,9 @@ A popular Goddess in India, Gangamma is a Nada Devathe (Local deity) in Bangalor
     </body>
 
 </html>
-
+```
 market.html:
+```
 <!DOCTYPE html>
 <html>
     <head>
@@ -129,6 +135,25 @@ According to downtoearth.org.in, Chittoor district in India is the largest culti
     </body>
 
 </html>
+```
+# output : 
+index.hmtl : 
+![image](https://github.com/Thrineshroyal/Ex-04-webTech_imagemap/assets/145741928/6bc42ede-d6c5-4e17-aed8-beabcc1f6217)
+
+basinikonda.html :
+![image](https://github.com/Thrineshroyal/Ex-04-webTech_imagemap/assets/145741928/f28c63c5-6a8a-4afc-8b16-dd6ee5022a85)
+
+MMC.html
+![image](https://github.com/Thrineshroyal/Ex-04-webTech_imagemap/assets/145741928/0af9e4d6-24f2-4c05-90d4-90c69e91299e)
+
+hall.html;
+![image](https://github.com/Thrineshroyal/Ex-04-webTech_imagemap/assets/145741928/1fe5c8f5-0cf5-404b-bbc4-c77b7de056c7)
+
+temple.html:
+![image](https://github.com/Thrineshroyal/Ex-04-webTech_imagemap/assets/145741928/b4721406-d71f-4ad6-a797-6b2a02d3569b)
+
+market.html:
+![image](https://github.com/Thrineshroyal/Ex-04-webTech_imagemap/assets/145741928/57ab36cf-d4a4-49e0-9496-c9ef68719cd2)
 
 # Result:
 The program for implementing image map is executed successfully.
