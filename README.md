@@ -20,6 +20,8 @@ Include pictures and contents for your subpages and map them using urls and view
 # Code:
 Developed by: T.Thrinesh Royal
 Ref no:23004810
+
+
 MAP.HTML:
 map.html:
 <!DOCTYPE html>
