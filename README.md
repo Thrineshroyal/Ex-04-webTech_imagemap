@@ -50,7 +50,8 @@ basinikonda.html.html:
     </head>
     <body>
         <h1 align='center'>Basinikonda</h1>
-        <img src ="C:\Users\admin\Pictures\Screenshots\Screenshot 2023-11-21 210557.png" height="500" width="700" align="center" >
+        <img src =![Screenshot 2023-11-21 210557](https://github.com/Thrineshroyal/Ex-04-webTech_imagemap/assets/145741928/07f9bd18-d046-48e3-aceb-eee8caa85edd)
+ height="500" width="700" align="center" >
         <p>
       Basnikonda is referred to in Annual Report of Epigraphy no. 342 of 1912. The tamil inscription documents the conversion of  Siravalli (a village) into an ERIVIRAPATTINAM (a merchant town with armed guards). This resolution was passed by merchant guilds and merchants of that time including Nadu, Nagara, Nana Desi and Ayiraththainnurruvar. The inscription reads that they met at Siravalli in Mugai-nadu, a sub-division of Purani-Marayapadi of Jayangonda-sola Mandalam and resolved to convert the village Siravalli into a Nanadesiya-Dasamadi-Erivirapattana and to grant certain privileges to the residents of that village.
 
