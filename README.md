@@ -124,13 +124,10 @@ market.html:
 The tomato market in Madanapalle is one the biggest tomato markets in India, and in Asia, and also in the world. It gathers tomatoes cultivated by small-scale and marginal farmers in the surrounding villages of Madanapalle, and also from Chittoor and Kadapa districts of Andhra Pradesh. The market is spread in about twenty acres of land and it is located in the centre of the city. It is the largest tomato market in Andhra Pradesh.
 
 According to downtoearth.org.in, Chittoor district in India is the largest cultivator of tomatoes. The tomato yard in Madanapalle in Chittoor district holds about 1000 tonnes of tomatoes.
-
-
         </p>
     </body>
 
 </html>
-# Output:
 
 # Result:
 The program for implementing image map is executed successfully.
