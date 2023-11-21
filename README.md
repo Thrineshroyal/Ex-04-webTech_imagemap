@@ -70,7 +70,6 @@ MMC park.html:
          <img src ="C:\Users\admin\Pictures\Screenshots\Screenshot 2023-11-21 211026.png" align="center" height="500" width="700"  >
         <p>MMC Park is a park located in Madanapalle, Andhra Pradesh. The average rating of this place is 4.20 out of 5 stars based on 447 reviews. The street address of this place is GGV7+6J5, Nemali Nagar, Madanapalle, Andhra Pradesh 517325, India. It is about 1.26 kilometers away from the Madana Palle railway station.
         </p>    
-     
     </body>
 
 </html>
